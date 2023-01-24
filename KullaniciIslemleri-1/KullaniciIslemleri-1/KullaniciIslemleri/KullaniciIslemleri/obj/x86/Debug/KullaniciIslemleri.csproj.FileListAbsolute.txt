@@ -1,0 +1,60 @@
+E:\Okul\11 tbt\8.hafta\KullaniciIslemleri\KullaniciIslemleri\obj\x86\Debug\KullaniciIslemleri.KullaniciListele.resources
+E:\Okul\11 tbt\8.hafta\KullaniciIslemleri\KullaniciIslemleri\obj\x86\Debug\KullaniciIslemleri.Properties.Resources.resources
+E:\Okul\11 tbt\8.hafta\KullaniciIslemleri\KullaniciIslemleri\obj\x86\Debug\KullaniciIslemleri.csproj.GenerateResource.Cache
+E:\Okul\11 tbt\8.hafta\KullaniciIslemleri\KullaniciIslemleri\bin\Debug\KullaniciIslemleri.exe
+E:\Okul\11 tbt\8.hafta\KullaniciIslemleri\KullaniciIslemleri\bin\Debug\KullaniciIslemleri.pdb
+E:\Okul\11 tbt\8.hafta\KullaniciIslemleri\KullaniciIslemleri\obj\x86\Debug\KullaniciIslemleri.exe
+E:\Okul\11 tbt\8.hafta\KullaniciIslemleri\KullaniciIslemleri\obj\x86\Debug\KullaniciIslemleri.pdb
+E:\Okul\11 tbt\8.hafta\KullaniciIslemleri\KullaniciIslemleri\obj\x86\Debug\KullaniciIslemleri.frmAnaEkran.resources
+E:\Okul\11 tbt\8.hafta\KullaniciIslemleri\KullaniciIslemleri\obj\x86\Debug\KullaniciIslemleri.frmGiris.resources
+E:\Okul\11 tbt\8.hafta\KullaniciIslemleri\KullaniciIslemleri\obj\x86\Debug\KullaniciIslemleri.frmKullaniciEkle.resources
+E:\Okul\11 tbt\8.hafta\KullaniciIslemleri\KullaniciIslemleri\obj\x86\Debug\KullaniciIslemleri.csprojResolveAssemblyReference.cache
+E:\Okul\11 tbt\8.hafta\KullaniciIslemleri\KullaniciIslemleri\obj\x86\Debug\KullaniciIslemleri.frmKullaniciSil.resources
+E:\Okul\11 tbt\8.hafta\KullaniciIslemleri\KullaniciIslemleri\obj\x86\Debug\KullaniciIslemleri.FrmGuncelle.resources
+E:\Okul\11 tbt\8.hafta\KullaniciIslemleri\KullaniciIslemleri\obj\x86\Debug\KullaniciIslemleri.frmKullaniciAra.resources
+C:\Users\win\Desktop\KullaniciIslemleri\KullaniciIslemleri\obj\x86\Debug\KullaniciIslemleri.exe
+C:\Users\win\Desktop\KullaniciIslemleri\KullaniciIslemleri\obj\x86\Debug\KullaniciIslemleri.pdb
+C:\Users\win\Desktop\ \KullaniciIslemleri\KullaniciIslemleri\obj\x86\Debug\KullaniciIslemleri.exe
+C:\Users\win\Desktop\ \KullaniciIslemleri\KullaniciIslemleri\obj\x86\Debug\KullaniciIslemleri.pdb
+C:\Users\win\Desktop\ \KullaniciIslemleri\KullaniciIslemleri\bin\Debug\KullaniciIslemleri.exe
+C:\Users\win\Desktop\ \KullaniciIslemleri\KullaniciIslemleri\bin\Debug\KullaniciIslemleri.pdb
+C:\Users\win\Desktop\ \KullaniciIslemleri\KullaniciIslemleri\obj\x86\Debug\KullaniciIslemleri.csprojResolveAssemblyReference.cache
+C:\Users\win\Desktop\ \KullaniciIslemleri\KullaniciIslemleri\obj\x86\Debug\KullaniciIslemleri.frmAnaEkran.resources
+C:\Users\win\Desktop\ \KullaniciIslemleri\KullaniciIslemleri\obj\x86\Debug\KullaniciIslemleri.frmGiris.resources
+C:\Users\win\Desktop\ \KullaniciIslemleri\KullaniciIslemleri\obj\x86\Debug\KullaniciIslemleri.FrmGuncelle.resources
+C:\Users\win\Desktop\ \KullaniciIslemleri\KullaniciIslemleri\obj\x86\Debug\KullaniciIslemleri.frmKullaniciAra.resources
+C:\Users\win\Desktop\ \KullaniciIslemleri\KullaniciIslemleri\obj\x86\Debug\KullaniciIslemleri.frmKullaniciEkle.resources
+C:\Users\win\Desktop\ \KullaniciIslemleri\KullaniciIslemleri\obj\x86\Debug\KullaniciIslemleri.frmKullaniciSil.resources
+C:\Users\win\Desktop\ \KullaniciIslemleri\KullaniciIslemleri\obj\x86\Debug\KullaniciIslemleri.KullaniciListele.resources
+C:\Users\win\Desktop\ \KullaniciIslemleri\KullaniciIslemleri\obj\x86\Debug\KullaniciIslemleri.Properties.Resources.resources
+C:\Users\win\Desktop\ \KullaniciIslemleri\KullaniciIslemleri\obj\x86\Debug\KullaniciIslemleri.csproj.GenerateResource.Cache
+C:\Users\win\Desktop\KullaniciIslemleri\KullaniciIslemleri\obj\x86\Debug\KullaniciIslemleri.csprojResolveAssemblyReference.cache
+C:\Users\win\Desktop\KullaniciIslemleri\KullaniciIslemleri\obj\x86\Debug\KullaniciIslemleri.frmAnaEkran.resources
+C:\Users\win\Desktop\KullaniciIslemleri\KullaniciIslemleri\obj\x86\Debug\KullaniciIslemleri.Properties.Resources.resources
+C:\Users\win\Desktop\KullaniciIslemleri\KullaniciIslemleri\obj\x86\Debug\KullaniciIslemleri.csproj.GenerateResource.Cache
+C:\Users\win\Desktop\KullaniciIslemleri\KullaniciIslemleri\bin\Debug\KullaniciIslemleri.exe
+C:\Users\win\Desktop\KullaniciIslemleri\KullaniciIslemleri\bin\Debug\KullaniciIslemleri.pdb
+C:\Users\win\Desktop\KullaniciIslemleri\KullaniciIslemleri\bin\Debug\data.accdb
+C:\Users\win\Desktop\KullaniciIslemleri\KullaniciIslemleri\bin\Debug\KullaniciIslemleri.exe.config
+C:\Users\PC\Desktop\KullaniciIslemleri-1\KullaniciIslemleri\KullaniciIslemleri\bin\Debug\data.accdb
+C:\Users\PC\Desktop\KullaniciIslemleri-1\KullaniciIslemleri\KullaniciIslemleri\bin\Debug\KullaniciIslemleri.exe.config
+C:\Users\PC\Desktop\KullaniciIslemleri-1\KullaniciIslemleri\KullaniciIslemleri\bin\Debug\KullaniciIslemleri.exe
+C:\Users\PC\Desktop\KullaniciIslemleri-1\KullaniciIslemleri\KullaniciIslemleri\bin\Debug\KullaniciIslemleri.pdb
+C:\Users\PC\Desktop\KullaniciIslemleri-1\KullaniciIslemleri\KullaniciIslemleri\obj\x86\Debug\KullaniciIslemleri.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\KullaniciIslemleri-1\KullaniciIslemleri\KullaniciIslemleri\obj\x86\Debug\KullaniciIslemleri.frmAnaEkran.resources
+C:\Users\PC\Desktop\KullaniciIslemleri-1\KullaniciIslemleri\KullaniciIslemleri\obj\x86\Debug\KullaniciIslemleri.Properties.Resources.resources
+C:\Users\PC\Desktop\KullaniciIslemleri-1\KullaniciIslemleri\KullaniciIslemleri\obj\x86\Debug\KullaniciIslemleri.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\KullaniciIslemleri-1\KullaniciIslemleri\KullaniciIslemleri\obj\x86\Debug\KullaniciIslemleri.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\KullaniciIslemleri-1\KullaniciIslemleri\KullaniciIslemleri\obj\x86\Debug\KullaniciIslemleri.exe
+C:\Users\PC\Desktop\KullaniciIslemleri-1\KullaniciIslemleri\KullaniciIslemleri\obj\x86\Debug\KullaniciIslemleri.pdb
+C:\Users\PC\Desktop\Sabis Subu\KullaniciIslemleri-1\KullaniciIslemleri-1\KullaniciIslemleri\KullaniciIslemleri\bin\Debug\data.accdb
+C:\Users\PC\Desktop\Sabis Subu\KullaniciIslemleri-1\KullaniciIslemleri-1\KullaniciIslemleri\KullaniciIslemleri\bin\Debug\KullaniciIslemleri.exe.config
+C:\Users\PC\Desktop\Sabis Subu\KullaniciIslemleri-1\KullaniciIslemleri-1\KullaniciIslemleri\KullaniciIslemleri\bin\Debug\KullaniciIslemleri.exe
+C:\Users\PC\Desktop\Sabis Subu\KullaniciIslemleri-1\KullaniciIslemleri-1\KullaniciIslemleri\KullaniciIslemleri\bin\Debug\KullaniciIslemleri.pdb
+C:\Users\PC\Desktop\Sabis Subu\KullaniciIslemleri-1\KullaniciIslemleri-1\KullaniciIslemleri\KullaniciIslemleri\obj\x86\Debug\KullaniciIslemleri.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Sabis Subu\KullaniciIslemleri-1\KullaniciIslemleri-1\KullaniciIslemleri\KullaniciIslemleri\obj\x86\Debug\KullaniciIslemleri.frmAnaEkran.resources
+C:\Users\PC\Desktop\Sabis Subu\KullaniciIslemleri-1\KullaniciIslemleri-1\KullaniciIslemleri\KullaniciIslemleri\obj\x86\Debug\KullaniciIslemleri.Properties.Resources.resources
+C:\Users\PC\Desktop\Sabis Subu\KullaniciIslemleri-1\KullaniciIslemleri-1\KullaniciIslemleri\KullaniciIslemleri\obj\x86\Debug\KullaniciIslemleri.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Sabis Subu\KullaniciIslemleri-1\KullaniciIslemleri-1\KullaniciIslemleri\KullaniciIslemleri\obj\x86\Debug\KullaniciIslemleri.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Sabis Subu\KullaniciIslemleri-1\KullaniciIslemleri-1\KullaniciIslemleri\KullaniciIslemleri\obj\x86\Debug\KullaniciIslemleri.exe
+C:\Users\PC\Desktop\Sabis Subu\KullaniciIslemleri-1\KullaniciIslemleri-1\KullaniciIslemleri\KullaniciIslemleri\obj\x86\Debug\KullaniciIslemleri.pdb
